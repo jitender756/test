@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class Customers {
 	
+/*Customer Bean*/
 	private int custid;
 	private String custname;
 	private String coursename;
